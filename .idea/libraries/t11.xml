@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="t11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HelloWorldJFX/t11.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
